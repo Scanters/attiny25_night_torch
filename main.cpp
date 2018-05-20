@@ -219,5 +219,3 @@ ISR(INT0_vect)
 		relay_off();
 	}
 }
-
-// Tabs of 4
